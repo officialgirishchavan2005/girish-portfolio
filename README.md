@@ -1,6 +1,6 @@
 # 🚀 Girish Chavan | Premium Developer Portfolio
 
-![Portfolio Banner](assets/images/SkillXchange.png)
+![Portfolio Banner](assets/images/my_pic.png)
 
 A high-end, responsive, and dynamic Single Page Application (SPA) designed to showcase technical expertise, academic journey, and professional projects with a futuristic **Glassmorphism** aesthetic.
 
